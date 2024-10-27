@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>coda</title>
-        <link>https://A-person-from-solar-system.blog.github.io/ja/</link>
+        <link>https://a-person-from-solar-system.github.io/blog.github.io/ja/</link>
         <description>Recent content on coda</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <copyright>Example Person</copyright><atom:link href="https://A-person-from-solar-system.blog.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Example Person</copyright><atom:link href="https://a-person-from-solar-system.github.io/blog.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
