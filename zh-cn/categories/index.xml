@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on coda</title>
+        <link>https://a-person-from-solar-system.github.io/blog.github.io/zh-cn/categories/</link>
+        <description>Recent content in Categories on coda</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 28 Oct 2024 14:21:45 +0800</lastBuildDate><atom:link href="https://a-person-from-solar-system.github.io/blog.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C&#43;&#43;</title>
+        <link>https://a-person-from-solar-system.github.io/blog.github.io/zh-cn/categories/c&#43;&#43;/</link>
+        <pubDate>Mon, 28 Oct 2024 14:21:45 +0800</pubDate>
+        
+        <guid>https://a-person-from-solar-system.github.io/blog.github.io/zh-cn/categories/c&#43;&#43;/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Java</title>
+        <link>https://a-person-from-solar-system.github.io/blog.github.io/zh-cn/categories/java/</link>
+        <pubDate>Sun, 27 Oct 2024 10:03:59 +0800</pubDate>
+        
+        <guid>https://a-person-from-solar-system.github.io/blog.github.io/zh-cn/categories/java/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
